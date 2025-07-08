@@ -1,0 +1,13 @@
+.env
+virtual/
+virtual-wsl/
+node_modules/
+dist/
+coverage/
+*.log
+# pycache
+__pycache__/
+migrations/
+.db.sqlite3
+.db
+.sqlite3
