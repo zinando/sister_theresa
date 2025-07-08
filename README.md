@@ -15,22 +15,7 @@ This is a scalable Flask-based backend for a WhatsApp chatbot using the [WhatsAp
 ---
 
 ## 🗂️ Project Structure
-sister_theresa/
-│
-├── app/
-│ ├── init.py # Flask app factory
-│ ├── config.py # Configuration settings
-│ ├── routes/
-│ │ └── webhook.py # WhatsApp webhook route
-│ ├── services/
-│ │ └── whatsapp.py # Message processing logic
-│ ├── utils/
-│ │ └── parser.py # Keyword matching
-│
-├── run.py # Application entry point
-├── requirements.txt # Dependencies
-└── README.md
-
+![Project Tree](images/tree.png)
 
 ---
 
